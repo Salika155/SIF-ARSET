@@ -36,8 +36,8 @@ Before diving into the Jupyter Notebook in the notebooks/ directory, you will ne
 **Create a new file called .env in the same directory as this readme (the repository root) and put your username and password into it the same way you see it in .env.example:**
 
 ```bash
-EARTHDATA_USERNAME=user
-EARTHDATA_PASSWORD=pass
+EARTHDATA_USERNAME=salika155	
+EARTHDATA_PASSWORD=ZvWG984xKe7R6?,
 ```
 
 ### Installing the necessary packages
